@@ -1,0 +1,329 @@
+NSObject:
+  UINibTopLevelObjectsKey:
+    NSArray:
+      NSInlinedValue: NO
+      UINibEncoderEmptyKey:
+        UIClassSwapper:
+          UIExternalObjectsTableForViewLoading:
+            NSDictionary:
+              NSInlinedValue: NO
+          UINibName:
+            NSString:
+              NS.bytes: 01J-lp-oVM-view-Ze5-6b-2t3
+          UIClassName:
+            NSString:
+              NS.bytes: UIViewController
+          UIOriginalClassName:
+            NSString:
+              NS.bytes: UIViewController
+      UINibEncoderEmptyKey:
+        UIProxyObject:
+          UIProxiedObjectIdentifier:
+            NSString:
+              NS.bytes: IBFilesOwner
+      UINibEncoderEmptyKey:
+        UIProxyObject:
+          UIProxiedObjectIdentifier:
+            NSString:
+              NS.bytes: IBFirstResponder
+      UINibEncoderEmptyKey:
+        UIProxyObject:
+          UIProxiedObjectIdentifier:
+            NSString:
+              NS.bytes: UIStoryboardPlaceholder
+  UINibObjectsKey:
+    NSArray:
+      NSInlinedValue: NO
+      UINibEncoderEmptyKey:
+        UIClassSwapper:
+          UIExternalObjectsTableForViewLoading:
+            NSDictionary:
+              NSInlinedValue: NO
+          UINibName:
+            NSString:
+              NS.bytes: 01J-lp-oVM-view-Ze5-6b-2t3
+          UIClassName:
+            NSString:
+              NS.bytes: UIViewController
+          UIOriginalClassName:
+            NSString:
+              NS.bytes: UIViewController
+      UINibEncoderEmptyKey:
+        UIProxyObject:
+          UIProxiedObjectIdentifier:
+            NSString:
+              NS.bytes: IBFilesOwner
+      UINibEncoderEmptyKey:
+        UIProxyObject:
+          UIProxiedObjectIdentifier:
+            NSString:
+              NS.bytes: IBFirstResponder
+      UINibEncoderEmptyKey:
+        UIProxyObject:
+          UIProxiedObjectIdentifier:
+            NSString:
+              NS.bytes: UIStoryboardPlaceholder
+  UINibConnectionsKey:
+    NSArray:
+      NSInlinedValue: NO
+      UINibEncoderEmptyKey:
+        UIRuntimeOutletConnection:
+          UILabel:
+            NSString:
+              NS.bytes: storyboard
+          UISource:
+            UIClassSwapper:
+              UIExternalObjectsTableForViewLoading:
+                NSDictionary:
+                  NSInlinedValue: NO
+              UINibName:
+                NSString:
+                  NS.bytes: 01J-lp-oVM-view-Ze5-6b-2t3
+              UIClassName:
+                NSString:
+                  NS.bytes: UIViewController
+              UIOriginalClassName:
+                NSString:
+                  NS.bytes: UIViewController
+          UIDestination:
+            UIProxyObject:
+              UIProxiedObjectIdentifier:
+                NSString:
+                  NS.bytes: UIStoryboardPlaceholder
+      UINibEncoderEmptyKey:
+        UIRuntimeOutletConnection:
+          UILabel:
+            NSString:
+              NS.bytes: sceneViewController
+          UISource:
+            UIProxyObject:
+              UIProxiedObjectIdentifier:
+                NSString:
+                  NS.bytes: IBFilesOwner
+          UIDestination:
+            UIClassSwapper:
+              UIExternalObjectsTableForViewLoading:
+                NSDictionary:
+                  NSInlinedValue: NO
+              UINibName:
+                NSString:
+                  NS.bytes: 01J-lp-oVM-view-Ze5-6b-2t3
+              UIClassName:
+                NSString:
+                  NS.bytes: UIViewController
+              UIOriginalClassName:
+                NSString:
+                  NS.bytes: UIViewController
+  UINibVisibleWindowsKey:
+    NSArray:
+      NSInlinedValue: NO
+  UINibAccessibilityConfigurationsKey:
+    NSArray:
+      NSInlinedValue: NO
+  UINibTraitStorageListsKey:
+    NSArray:
+      NSInlinedValue: NO
+  UINibKeyValuePairsKey:
+    NSArray:
+      NSInlinedValue: NO
+NSArray:
+  NSInlinedValue: NO
+  UINibEncoderEmptyKey:
+    UIClassSwapper:
+      UIExternalObjectsTableForViewLoading:
+        NSDictionary:
+          NSInlinedValue: NO
+      UINibName:
+        NSString:
+          NS.bytes: 01J-lp-oVM-view-Ze5-6b-2t3
+      UIClassName:
+        NSString:
+          NS.bytes: UIViewController
+      UIOriginalClassName:
+        NSString:
+          NS.bytes: UIViewController
+  UINibEncoderEmptyKey:
+    UIProxyObject:
+      UIProxiedObjectIdentifier:
+        NSString:
+          NS.bytes: IBFilesOwner
+  UINibEncoderEmptyKey:
+    UIProxyObject:
+      UIProxiedObjectIdentifier:
+        NSString:
+          NS.bytes: IBFirstResponder
+  UINibEncoderEmptyKey:
+    UIProxyObject:
+      UIProxiedObjectIdentifier:
+        NSString:
+          NS.bytes: UIStoryboardPlaceholder
+UIClassSwapper:
+  UIExternalObjectsTableForViewLoading:
+    NSDictionary:
+      NSInlinedValue: NO
+  UINibName:
+    NSString:
+      NS.bytes: 01J-lp-oVM-view-Ze5-6b-2t3
+  UIClassName:
+    NSString:
+      NS.bytes: UIViewController
+  UIOriginalClassName:
+    NSString:
+      NS.bytes: UIViewController
+NSArray:
+  NSInlinedValue: NO
+  UINibEncoderEmptyKey:
+    UIClassSwapper:
+      UIExternalObjectsTableForViewLoading:
+        NSDictionary:
+          NSInlinedValue: NO
+      UINibName:
+        NSString:
+          NS.bytes: 01J-lp-oVM-view-Ze5-6b-2t3
+      UIClassName:
+        NSString:
+          NS.bytes: UIViewController
+      UIOriginalClassName:
+        NSString:
+          NS.bytes: UIViewController
+  UINibEncoderEmptyKey:
+    UIProxyObject:
+      UIProxiedObjectIdentifier:
+        NSString:
+          NS.bytes: IBFilesOwner
+  UINibEncoderEmptyKey:
+    UIProxyObject:
+      UIProxiedObjectIdentifier:
+        NSString:
+          NS.bytes: IBFirstResponder
+  UINibEncoderEmptyKey:
+    UIProxyObject:
+      UIProxiedObjectIdentifier:
+        NSString:
+          NS.bytes: UIStoryboardPlaceholder
+NSString:
+  NS.bytes: 01J-lp-oVM-view-Ze5-6b-2t3
+NSString:
+  NS.bytes: UIStoryboardPlaceholder
+UIRuntimeOutletConnection:
+  UILabel:
+    NSString:
+      NS.bytes: storyboard
+  UISource:
+    UIClassSwapper:
+      UIExternalObjectsTableForViewLoading:
+        NSDictionary:
+          NSInlinedValue: NO
+      UINibName:
+        NSString:
+          NS.bytes: 01J-lp-oVM-view-Ze5-6b-2t3
+      UIClassName:
+        NSString:
+          NS.bytes: UIViewController
+      UIOriginalClassName:
+        NSString:
+          NS.bytes: UIViewController
+  UIDestination:
+    UIProxyObject:
+      UIProxiedObjectIdentifier:
+        NSString:
+          NS.bytes: UIStoryboardPlaceholder
+NSString:
+  NS.bytes: storyboard
+UIRuntimeOutletConnection:
+  UILabel:
+    NSString:
+      NS.bytes: sceneViewController
+  UISource:
+    UIProxyObject:
+      UIProxiedObjectIdentifier:
+        NSString:
+          NS.bytes: IBFilesOwner
+  UIDestination:
+    UIClassSwapper:
+      UIExternalObjectsTableForViewLoading:
+        NSDictionary:
+          NSInlinedValue: NO
+      UINibName:
+        NSString:
+          NS.bytes: 01J-lp-oVM-view-Ze5-6b-2t3
+      UIClassName:
+        NSString:
+          NS.bytes: UIViewController
+      UIOriginalClassName:
+        NSString:
+          NS.bytes: UIViewController
+NSString:
+  NS.bytes: UIViewController
+UIProxyObject:
+  UIProxiedObjectIdentifier:
+    NSString:
+      NS.bytes: UIStoryboardPlaceholder
+UIProxyObject:
+  UIProxiedObjectIdentifier:
+    NSString:
+      NS.bytes: IBFirstResponder
+UIProxyObject:
+  UIProxiedObjectIdentifier:
+    NSString:
+      NS.bytes: IBFilesOwner
+NSString:
+  NS.bytes: sceneViewController
+NSDictionary:
+  NSInlinedValue: NO
+NSArray:
+  NSInlinedValue: NO
+NSArray:
+  NSInlinedValue: NO
+  UINibEncoderEmptyKey:
+    UIRuntimeOutletConnection:
+      UILabel:
+        NSString:
+          NS.bytes: storyboard
+      UISource:
+        UIClassSwapper:
+          UIExternalObjectsTableForViewLoading:
+            NSDictionary:
+              NSInlinedValue: NO
+          UINibName:
+            NSString:
+              NS.bytes: 01J-lp-oVM-view-Ze5-6b-2t3
+          UIClassName:
+            NSString:
+              NS.bytes: UIViewController
+          UIOriginalClassName:
+            NSString:
+              NS.bytes: UIViewController
+      UIDestination:
+        UIProxyObject:
+          UIProxiedObjectIdentifier:
+            NSString:
+              NS.bytes: UIStoryboardPlaceholder
+  UINibEncoderEmptyKey:
+    UIRuntimeOutletConnection:
+      UILabel:
+        NSString:
+          NS.bytes: sceneViewController
+      UISource:
+        UIProxyObject:
+          UIProxiedObjectIdentifier:
+            NSString:
+              NS.bytes: IBFilesOwner
+      UIDestination:
+        UIClassSwapper:
+          UIExternalObjectsTableForViewLoading:
+            NSDictionary:
+              NSInlinedValue: NO
+          UINibName:
+            NSString:
+              NS.bytes: 01J-lp-oVM-view-Ze5-6b-2t3
+          UIClassName:
+            NSString:
+              NS.bytes: UIViewController
+          UIOriginalClassName:
+            NSString:
+              NS.bytes: UIViewController
+NSString:
+  NS.bytes: IBFirstResponder
+NSString:
+  NS.bytes: IBFilesOwner

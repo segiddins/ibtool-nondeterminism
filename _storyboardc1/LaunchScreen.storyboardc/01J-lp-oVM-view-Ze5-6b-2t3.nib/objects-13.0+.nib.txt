@@ -1,0 +1,300 @@
+NSObject:
+  UINibTopLevelObjectsKey:
+    NSArray:
+      NSInlinedValue: NO
+      UINibEncoderEmptyKey:
+        UIView:
+          UIBounds: {length = 33, bytes = 0x07000000 00000000 00000000 00000000 ... 00000000 00d88440 }
+          UICenter: {length = 17, bytes = 0x0700000000007067400000000000d87440}
+          UIBackgroundColor:
+            UIColor:
+              UIColorComponentCount: 4
+              UIRed: 1
+              UIGreen: 1
+              UIBlue: 1
+              UIAlpha: 1
+              NSRGB: {length = 5, bytes = 0x3120312031}
+              NSColorSpace: 2
+          UIDeepDrawRect: NO
+          UIOpaque: NO
+          UIAutoresizeSubviews: NO
+          UIAutoresizingMask: 18
+          UIViewSemanticContentAttribute: 0
+          UIViewLargeContentStoredProperties: NULL
+      UINibEncoderEmptyKey:
+        UIProxyObject:
+          UIProxiedObjectIdentifier:
+            NSString:
+              NS.bytes: IBFilesOwner
+      UINibEncoderEmptyKey:
+        UIProxyObject:
+          UIProxiedObjectIdentifier:
+            NSString:
+              NS.bytes: IBFirstResponder
+  UINibObjectsKey:
+    NSArray:
+      NSInlinedValue: NO
+      UINibEncoderEmptyKey:
+        UIView:
+          UIBounds: {length = 33, bytes = 0x07000000 00000000 00000000 00000000 ... 00000000 00d88440 }
+          UICenter: {length = 17, bytes = 0x0700000000007067400000000000d87440}
+          UIBackgroundColor:
+            UIColor:
+              UIColorComponentCount: 4
+              UIRed: 1
+              UIGreen: 1
+              UIBlue: 1
+              UIAlpha: 1
+              NSRGB: {length = 5, bytes = 0x3120312031}
+              NSColorSpace: 2
+          UIDeepDrawRect: NO
+          UIOpaque: NO
+          UIAutoresizeSubviews: NO
+          UIAutoresizingMask: 18
+          UIViewSemanticContentAttribute: 0
+          UIViewLargeContentStoredProperties: NULL
+      UINibEncoderEmptyKey:
+        UIProxyObject:
+          UIProxiedObjectIdentifier:
+            NSString:
+              NS.bytes: IBFilesOwner
+      UINibEncoderEmptyKey:
+        UIProxyObject:
+          UIProxiedObjectIdentifier:
+            NSString:
+              NS.bytes: IBFirstResponder
+      UINibEncoderEmptyKey:
+        UILayoutGuide:
+          UILayoutGuideOwningView: NULL
+          UILayoutGuideIdentifier:
+            NSString:
+              NS.bytes: ""
+          UILayoutGuideOwningViewIsLocked: YES
+          UILayoutGuideShouldBeArchived: YES
+          UILayoutGuideAllowsNegativeDimensions: YES
+  UINibConnectionsKey:
+    NSArray:
+      NSInlinedValue: NO
+      UINibEncoderEmptyKey:
+        UIRuntimeOutletConnection:
+          UILabel:
+            NSString:
+              NS.bytes: view
+          UISource:
+            UIProxyObject:
+              UIProxiedObjectIdentifier:
+                NSString:
+                  NS.bytes: IBFilesOwner
+          UIDestination:
+            UIView:
+              UIBounds: {length = 33, bytes = 0x07000000 00000000 00000000 00000000 ... 00000000 00d88440 }
+              UICenter: {length = 17, bytes = 0x0700000000007067400000000000d87440}
+              UIBackgroundColor:
+                UIColor:
+                  UIColorComponentCount: 4
+                  UIRed: 1
+                  UIGreen: 1
+                  UIBlue: 1
+                  UIAlpha: 1
+                  NSRGB: {length = 5, bytes = 0x3120312031}
+                  NSColorSpace: 2
+              UIDeepDrawRect: NO
+              UIOpaque: NO
+              UIAutoresizeSubviews: NO
+              UIAutoresizingMask: 18
+              UIViewSemanticContentAttribute: 0
+              UIViewLargeContentStoredProperties: NULL
+  UINibVisibleWindowsKey:
+    NSArray:
+      NSInlinedValue: NO
+  UINibAccessibilityConfigurationsKey:
+    NSArray:
+      NSInlinedValue: NO
+  UINibTraitStorageListsKey:
+    NSArray:
+      NSInlinedValue: NO
+  UINibKeyValuePairsKey:
+    NSArray:
+      NSInlinedValue: NO
+NSString:
+  NS.bytes: view
+NSArray:
+  NSInlinedValue: NO
+  UINibEncoderEmptyKey:
+    UIView:
+      UIBounds: {length = 33, bytes = 0x07000000 00000000 00000000 00000000 ... 00000000 00d88440 }
+      UICenter: {length = 17, bytes = 0x0700000000007067400000000000d87440}
+      UIBackgroundColor:
+        UIColor:
+          UIColorComponentCount: 4
+          UIRed: 1
+          UIGreen: 1
+          UIBlue: 1
+          UIAlpha: 1
+          NSRGB: {length = 5, bytes = 0x3120312031}
+          NSColorSpace: 2
+      UIDeepDrawRect: NO
+      UIOpaque: NO
+      UIAutoresizeSubviews: NO
+      UIAutoresizingMask: 18
+      UIViewSemanticContentAttribute: 0
+      UIViewLargeContentStoredProperties: NULL
+  UINibEncoderEmptyKey:
+    UIProxyObject:
+      UIProxiedObjectIdentifier:
+        NSString:
+          NS.bytes: IBFilesOwner
+  UINibEncoderEmptyKey:
+    UIProxyObject:
+      UIProxiedObjectIdentifier:
+        NSString:
+          NS.bytes: IBFirstResponder
+UIColor:
+  UIColorComponentCount: 4
+  UIRed: 1
+  UIGreen: 1
+  UIBlue: 1
+  UIAlpha: 1
+  NSRGB: {length = 5, bytes = 0x3120312031}
+  NSColorSpace: 2
+NSArray:
+  NSInlinedValue: NO
+  UINibEncoderEmptyKey:
+    UIRuntimeOutletConnection:
+      UILabel:
+        NSString:
+          NS.bytes: view
+      UISource:
+        UIProxyObject:
+          UIProxiedObjectIdentifier:
+            NSString:
+              NS.bytes: IBFilesOwner
+      UIDestination:
+        UIView:
+          UIBounds: {length = 33, bytes = 0x07000000 00000000 00000000 00000000 ... 00000000 00d88440 }
+          UICenter: {length = 17, bytes = 0x0700000000007067400000000000d87440}
+          UIBackgroundColor:
+            UIColor:
+              UIColorComponentCount: 4
+              UIRed: 1
+              UIGreen: 1
+              UIBlue: 1
+              UIAlpha: 1
+              NSRGB: {length = 5, bytes = 0x3120312031}
+              NSColorSpace: 2
+          UIDeepDrawRect: NO
+          UIOpaque: NO
+          UIAutoresizeSubviews: NO
+          UIAutoresizingMask: 18
+          UIViewSemanticContentAttribute: 0
+          UIViewLargeContentStoredProperties: NULL
+NSString:
+  NS.bytes: IBFirstResponder
+UIRuntimeOutletConnection:
+  UILabel:
+    NSString:
+      NS.bytes: view
+  UISource:
+    UIProxyObject:
+      UIProxiedObjectIdentifier:
+        NSString:
+          NS.bytes: IBFilesOwner
+  UIDestination:
+    UIView:
+      UIBounds: {length = 33, bytes = 0x07000000 00000000 00000000 00000000 ... 00000000 00d88440 }
+      UICenter: {length = 17, bytes = 0x0700000000007067400000000000d87440}
+      UIBackgroundColor:
+        UIColor:
+          UIColorComponentCount: 4
+          UIRed: 1
+          UIGreen: 1
+          UIBlue: 1
+          UIAlpha: 1
+          NSRGB: {length = 5, bytes = 0x3120312031}
+          NSColorSpace: 2
+      UIDeepDrawRect: NO
+      UIOpaque: NO
+      UIAutoresizeSubviews: NO
+      UIAutoresizingMask: 18
+      UIViewSemanticContentAttribute: 0
+      UIViewLargeContentStoredProperties: NULL
+NSArray:
+  NSInlinedValue: NO
+UIProxyObject:
+  UIProxiedObjectIdentifier:
+    NSString:
+      NS.bytes: IBFilesOwner
+NSString:
+  NS.bytes: ""
+NSString:
+  NS.bytes: IBFilesOwner
+UIProxyObject:
+  UIProxiedObjectIdentifier:
+    NSString:
+      NS.bytes: IBFirstResponder
+NSArray:
+  NSInlinedValue: NO
+  UINibEncoderEmptyKey:
+    UIView:
+      UIBounds: {length = 33, bytes = 0x07000000 00000000 00000000 00000000 ... 00000000 00d88440 }
+      UICenter: {length = 17, bytes = 0x0700000000007067400000000000d87440}
+      UIBackgroundColor:
+        UIColor:
+          UIColorComponentCount: 4
+          UIRed: 1
+          UIGreen: 1
+          UIBlue: 1
+          UIAlpha: 1
+          NSRGB: {length = 5, bytes = 0x3120312031}
+          NSColorSpace: 2
+      UIDeepDrawRect: NO
+      UIOpaque: NO
+      UIAutoresizeSubviews: NO
+      UIAutoresizingMask: 18
+      UIViewSemanticContentAttribute: 0
+      UIViewLargeContentStoredProperties: NULL
+  UINibEncoderEmptyKey:
+    UIProxyObject:
+      UIProxiedObjectIdentifier:
+        NSString:
+          NS.bytes: IBFilesOwner
+  UINibEncoderEmptyKey:
+    UIProxyObject:
+      UIProxiedObjectIdentifier:
+        NSString:
+          NS.bytes: IBFirstResponder
+  UINibEncoderEmptyKey:
+    UILayoutGuide:
+      UILayoutGuideOwningView: NULL
+      UILayoutGuideIdentifier:
+        NSString:
+          NS.bytes: ""
+      UILayoutGuideOwningViewIsLocked: YES
+      UILayoutGuideShouldBeArchived: YES
+      UILayoutGuideAllowsNegativeDimensions: YES
+UIView:
+  UIBounds: {length = 33, bytes = 0x07000000 00000000 00000000 00000000 ... 00000000 00d88440 }
+  UICenter: {length = 17, bytes = 0x0700000000007067400000000000d87440}
+  UIBackgroundColor:
+    UIColor:
+      UIColorComponentCount: 4
+      UIRed: 1
+      UIGreen: 1
+      UIBlue: 1
+      UIAlpha: 1
+      NSRGB: {length = 5, bytes = 0x3120312031}
+      NSColorSpace: 2
+  UIDeepDrawRect: NO
+  UIOpaque: NO
+  UIAutoresizeSubviews: NO
+  UIAutoresizingMask: 18
+  UIViewSemanticContentAttribute: 0
+  UIViewLargeContentStoredProperties: NULL
+UILayoutGuide:
+  UILayoutGuideOwningView: NULL
+  UILayoutGuideIdentifier:
+    NSString:
+      NS.bytes: ""
+  UILayoutGuideOwningViewIsLocked: YES
+  UILayoutGuideShouldBeArchived: YES
+  UILayoutGuideAllowsNegativeDimensions: YES
